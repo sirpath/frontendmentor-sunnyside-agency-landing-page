@@ -1,7 +1,19 @@
+/* eslint-disable jsx-a11y/no-noninteractive-tabindex */
+
+import ClientReview from '@/components/ClienReview'
+import Footer from '@/components/Footer'
+import Gallery from '@/components/Gallery'
+import Header from '@/components/Header'
+import Section from '@/components/Section'
+
 const Home = () => (
-  <main className="flex min-h-screen items-center justify-center text-7xl">
-    Hello World!!
-  </main>
+  <section className="flex min-h-screen flex-col items-center justify-center md:max-w-7xl">
+    <Header />
+    <Section />
+    <ClientReview />
+    <Gallery />
+    <Footer />
+  </section>
 )
 
 export default Home
