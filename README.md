@@ -1,6 +1,6 @@
  # liveDemo
 
- https://sirpath.github.io/frontend-mento-sunnyside-agency-landing-page
+ https://sirpath.github.io/frontendmentor-sunnyside-agency-landing-page
 
 >challenge README from [CHALLENGE Sunnyside agency landing](https://www.frontendmentor.io/challenges/sunnyside-agency-landing-page-7yVs3B6ef)
 
